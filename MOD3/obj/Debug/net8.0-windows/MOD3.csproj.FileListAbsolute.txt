@@ -14,3 +14,4 @@ D:\MOD3\MOD3\obj\Debug\net8.0-windows\refint\MOD3.dll
 D:\MOD3\MOD3\obj\Debug\net8.0-windows\MOD3.pdb
 D:\MOD3\MOD3\obj\Debug\net8.0-windows\MOD3.genruntimeconfig.cache
 D:\MOD3\MOD3\obj\Debug\net8.0-windows\ref\MOD3.dll
+D:\MOD3\MOD3\obj\Debug\net8.0-windows\MOD3.sourcelink.json
